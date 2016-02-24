@@ -44,8 +44,7 @@ npm whoami
 
 参考 
 
-[参考文档](link "https://docs.npmjs.com/cli/publish")
-
+A [参考文档](https://docs.npmjs.com/cli/publish)
 
 这里npm publish就可以，因为填写了package.json信息
 
