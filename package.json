@@ -1,0 +1,22 @@
+{
+  "name": "easy_npm",
+  "version": "0.1.2",
+  "description": "npm test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/oillamp/easy_npm.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "oillamp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oillamp/easy_npm/issues"
+  },
+  "homepage": "https://github.com/oillamp/easy_npm#readme"
+}
